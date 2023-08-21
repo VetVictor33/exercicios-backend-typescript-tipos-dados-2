@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Domingão",
+      "email": "domingo@email.com",
+      "profession": "preguiça 2.0",
+      "address": {
+        "cep": "1234",
+        "city": "SemanaCity",
+        "neighborhood": "SemanaBairro",
+        "street": "Fight",
+        "details": "turn left, turn right, turn left, go ahead"
+      },
+      "cpf": "1234567891012"
+    },
+    {
+      "name": "Segunda",
+      "email": "segunda@email.com",
+      "profession": "café na veia",
+      "address": null,
+      "cpf": "1234567891013"
+    }
+  ]
+}
