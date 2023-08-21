@@ -2,7 +2,7 @@ import { addUser, readUsers, User } from '../01/'
 
 async function main() {
   try {
-    const users = await findProfession('café')
+    const users = await findProfession('café na veia')
     console.log(users)
   } catch (error) {
     console.log(error)

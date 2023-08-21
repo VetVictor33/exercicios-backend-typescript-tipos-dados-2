@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "name": "Domingão",
+      "name": "Domingão de sol",
       "email": "domingo@email.com",
       "profession": "preguiça 2.0",
       "address": {
@@ -19,6 +19,12 @@
       "profession": "café na veia",
       "address": null,
       "cpf": "1234567891013"
+    },
+    {
+      "name": "Zaraba",
+      "email": "zaraba@tana.com",
+      "address": null,
+      "cpf": "1234567891014"
     }
   ]
 }
